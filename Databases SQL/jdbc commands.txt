@@ -1,0 +1,6 @@
+1. Right click on project folder
+2. Open module settings
+3. Libraries
+4. click +
+5. Select java
+6. Open sqlite-jdbc-3.15.1 wich is in C:\Users\FabianCreadorApps\googleDrive\Projects\Java\Databases SQL

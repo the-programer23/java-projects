@@ -1,0 +1,14 @@
+Automatic Imports
+File - Settings - Click editor and search imports - auto import - check checkboxes add unambiguous imports on the fly and optimize imports on the fly, set insert imports on paste to Ask
+----------------------------
+JavaFx setup: 
+
+1. Right click on project name > open module settings > project (check project sdk is 11) > project lenguage level should be the same as project sdk 
+> Global Libraries > right click on JavaFx and clic Add to Modules > 
+
+2. right clic src folder > new > module-info.java > inside the curly braces write :
+
+	requires javafx.fxml;
+	requires javafx.controls;
+	
+	opens sample;

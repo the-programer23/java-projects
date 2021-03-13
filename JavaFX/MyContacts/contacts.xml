@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Fabian</first_name>
+	<last_name>Pinzon</last_name>
+	<phone_number>3167171908</phone_number>
+	<notes>test</notes>
+</contact>
+<contact>
+	<first_name>Zoila Rosa</first_name>
+	<last_name>Mejia Mantilla</last_name>
+	<phone_number>12412</phone_number>
+	<notes>Mamá</notes>
+</contact>
+</contacts>
